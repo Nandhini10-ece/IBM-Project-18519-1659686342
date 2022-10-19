@@ -1,0 +1,113 @@
+<html>
+  <head>
+    <title>nandhakumar</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source Sans Pro">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+      html {
+      scroll-behavior: smooth;
+    }
+    h1,h2,h3,h4,h5,h6 {font-family: "Roboto"}
+    body {font-family: "Source Sans Pro"}
+    </style>
+  </head>
+<body class="w3- w3-margin">
+
+
+
+<div class="w3-content" style="max-width:1600px">
+
+  
+  <header class="w3-display-container w3-wide w3-center" style="padding-bottom:32px;">
+    <img class="w3-image w3-center" src="https://nandhakumard.w3spaces.com/PHOTO-modified.jpg"  width="500" height="70">
+    <div class="w3-display w3-center">
+      <h1 class="w3-text-Black">Nandha kumar D</h1>
+     
+     </div>
+  </header>
+<div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
+    <h2 class="w3-text-grey">About me</h2>
+    <hr style="width:200px" class="w3-opacity">
+    <p>I am Nandha Kumar D from Namakkal .I am curently pursueing Bachelor of Engineering in Electronics and Communication at Sri Krishna College of Technology,Coimbatore. The main objective is I would like to be part of an organization where I could
+use and enhance my knowledge and talent for the
+development of both organization and personal growth. My major strengths are I have some leadership quality ,good communication skills and also im an extrovert so i can easily merge with new people and complete  all my works easily. I have done a project on the topic Human body monitoring system, In this, I designed the system for monitoring the pulse rate of
+the patient body. The advancement of the system is to store the
+parameter of pulse rate into the cloud and also helps to alert the
+patient's family, when the abnormality in the pulse rate is
+observed with the GSM and the Buzzer.  .</p>
+    <h3 class="w3-padding-16 w3-text-grey">My Academics</h3>
+    <p class="w3-wide"> SSLC: 73.8%</p>
+    <div class="w3-red">
+      <div class="w3-green" style="height:28px;width:73.8%"></div>
+    </div>
+    <p class="w3-wide">HSC: 70.3% </p>
+    <div class="w3-red">
+      <div class="w3-green" style="height:28px;width:70.3%"></div>
+    </div>
+    <p class="w3-wide">College cgpa: 8.12</p>
+    <div class="w3-red">
+      <div class="w3-green" style="height:28px;width:81.2%"></div>
+    </div><br>
+    <h3 class="w3-padding-16 w3-text-Black">My Skills</h3>
+    <p class="w3-wide">C programming</p>
+    <div class="w3-red">
+      <div class="w3-green" style="height:28px;width:80%"></div>
+    </div>
+    <p class="w3-wide">Java</p>
+    <div class="w3-red">
+      <div class="w3-green" style="height:28px;width:60%"></div>
+    </div>
+    <br>
+    
+   
+
+    <button class="w3-button w3-light-grey w3-padding-large w3-section">
+      <i class="fa fa-download"></i> Download Resume
+    </button>
+
+
+
+<div class="w3-white" id="Contact">
+  <div class="w3-container w3-padding-32">
+    <div class="w3-center w3-padding-32">
+<h2 class="w3-wide">CONTACT</h2>
+ <p class="w3-opacity"><i>Lets begin chatting</i></p><br>
+<p class="w3-white w3-text-black w3-left-align">
+  EMAIL  :nandhakumar63820@gmail.com      
+
+  CONTACT:6382081689      
+
+  ADDRESS:kovaipudur pirivu,vivekananda nagar,
+          coimbatore-641008
+    
+    </p>
+      </div>
+<form action="/action_page.php" target="_blank">
+<p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Name" required name="Name"></p>
+<p><input class="w3-input w3-padding-16 w3-border" type="number" placeholder="Mail" required name="Mail"></p>
+
+<p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Message" required name="Message"></p>
+<p><button class="w3-button w3-round w3-black w3-block" type="submit">SEND MESSAGE</button></p>
+</form>
+</div>
+</div>
+
+  
+  <footer class="w3-container w3-black w3-center w3-margin-top">
+    <p>Find us on social media.</p>
+    <i class="fa fa-facebook-official w3-hover-opacity"></i>
+    <i class="fa fa-instagram w3-hover-opacity"></i>
+    <i class="fa fa-snapchat w3-hover-opacity"></i>
+    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+    <i class="fa fa-twitter w3-hover-opacity"></i>
+    <i class="fa fa-linkedin w3-hover-opacity"></i>
+    
+
+
+
+</body>
+</html>
